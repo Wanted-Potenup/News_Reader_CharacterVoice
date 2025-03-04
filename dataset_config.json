@@ -1,0 +1,9 @@
+{
+    "datasets": [
+      {
+        "name": "konan",
+        "path": "/home/user/News_Reader_CharacterVoice/data/konan",
+        "meta_file": "metadata.txt"
+      }
+    ]
+  }
