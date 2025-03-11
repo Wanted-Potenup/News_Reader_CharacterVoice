@@ -1,20 +1,22 @@
 # DeepLearning_project
 -----------
-## Participants
-Shaerrr(HyungHu, Kim)
-- llama : fine tunned
-- 
+## Overview
+ 최애가 읽어주는 오늘의 뉴스! 
 
 
+-----------
 ## BaseModel
 
 
-## datasets
+
+-----
+## data
 
 
 
-
+-----
 ## Requirement 
+
 python 3.11 ~ 
 Linux Ubuntu
 miniconda 
@@ -25,3 +27,10 @@ trl
 transformers 
 peft
 fastapi
+
+-----
+## Participants & Contact
+
+Shaerrr(HyungHu, Kim)
+- llama : fine tunned
+- 
